@@ -1,0 +1,13 @@
+{
+  "name": "ukm-i-senada",
+  "homepage": "https://github.com/mmUKM/ukm-i-senada",
+  "authors": [
+    "jrajalu <jrajalu@gmail.com>"
+  ],
+  "description": "News Portal site",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "uikit": "^2.25.0",
+    "CMB2": "https://github.com/WebDevStudios/CMB2.git#^2.2.1"
+  }
+}

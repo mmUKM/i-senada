@@ -1,0 +1,15 @@
+{
+  "name": "CMB2",
+  "homepage": "https://github.com/WebDevStudios/CMB2",
+  "version": "2.2.1",
+  "_release": "2.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.1",
+    "commit": "433d9f1bceeff068387e18e3966fc474854ae831"
+  },
+  "_source": "https://github.com/WebDevStudios/CMB2.git",
+  "_target": "^2.2.1",
+  "_originalSource": "https://github.com/WebDevStudios/CMB2.git",
+  "_direct": true
+}
