@@ -1,0 +1,24 @@
+{
+  "name": "ukm-i-senada",
+  "version": "1.0.0",
+  "description": "UKM's news portal",
+  "repository": {
+    "type": "git",
+    "url": "https://jrajalu@github.com/jrajalu/ukm-i-senada.git"
+  },
+  "author": "Jamaludin Rajalu <jrajalu@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mmUKM/ukm-i-senada/issues"
+  },
+  "homepage": "https://github.com/mmUKM/ukm-i-senada",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-banner": "^0.6.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
